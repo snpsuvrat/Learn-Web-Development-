@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Superheroes Layout</title>
+    <style>
+        /* CSS for division layout */
+        .container {
+            width: 100%;
+            overflow: hidden;
+        }
+
+        .left-column {
+            float: left;
+            width: 20%;
+            background-color: #f2f2f2;
+            padding: 20px;
+        }
+
+        .right-column {
+            float: right;
+            width: 70%;
+            background-color: #e0e0e0;
+            padding: 20px;
+        }
+
+        #header {
+            text-align: center;
+            background-color: #333;
+            color: white;
+            padding: 10px;
+        }
+
+        .hero-card {
+            background-color: #fff;
+            border: 1px solid #ccc;
+            padding: 10px;
+            margin-bottom: 20px;
+        }
+
+        .footer {
+            clear: both;
+            text-align: center;
+            background-color: #333;
+            color: white;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1>Superheroes</h1>
+    </div>
+
+    <div class="container">
+        <div class="left-column">
+            <h2>Popular Superheroes</h2>
+            <div class="hero-card">
+                <h3>Superman</h3>
+                <p>Superman is a powerful superhero with superhuman abilities.</p>
+            </div>
+            <div class="hero-card">
+                <h3>Spider-Man</h3>
+                <p>Spider-Man swings through the city with his web-shooters.</p>
+            </div>
+            <div class="hero-card">
+                <h3>Wonder Woman</h3>
+                <p>Wonder Woman is an Amazonian warrior with incredible strength.</p>
+            </div>
+        </div>
+        <div class="right-column">
+            <h2>Superhero Teams</h2>
+            <div class="hero-card">
+                <h3>The Avengers</h3>
+                <p>The Avengers assemble to protect the world from threats.</p>
+            </div>
+            <div class="hero-card">
+                <h3>Justice League</h3>
+                <p>The Justice League unites to combat supervillains and save humanity.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>&copy; 2023 Superheroes Inc.</p>
+    </div>
+</body>
+</html>
