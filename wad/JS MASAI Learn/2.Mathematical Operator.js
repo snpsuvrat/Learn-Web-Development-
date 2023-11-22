@@ -5,3 +5,4 @@ console.log("Sub is", a-b);
 console.log("Prod is", a*b);
 console.log("Div is", a/b);
 console.log("Modulo is", a&b);           //remainder
+console.log("Exponentiation is", a**b);           //Gives a to the power b
