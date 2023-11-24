@@ -11,7 +11,7 @@ console.log("Exponentiation is", a**b);           //Gives a to the power b
 
 let c= 16;
 console.log("Square Root of 16 is", c**0.5); // here c**0.5 means c to the power 0.5 which means c to the power  1/5 
-                                             // sqaure root of c means c to the power 1/2 and 1/2 = 0.5
+                                             //- sqaure root of c means c to the power 1/2 and 1/2 = 0.5 -//
 
 //Concatination
    //string + string = string
