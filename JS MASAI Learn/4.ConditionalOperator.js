@@ -16,7 +16,7 @@ else{
 if(false){
   //statement will not be executed
 }
-else if(true){
+else if(false){
   console.log("Else If Statement");
 }
 else
