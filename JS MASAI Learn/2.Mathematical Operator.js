@@ -1,6 +1,6 @@
 let a = 3;
 let b = 2;
-console.log("Sum is", a+b);
+console.log("Sum of a+b", a+b);
 console.log("Sub is", a-b);
 console.log("Prod is", a*b);
 console.log("Div is", a/b);
