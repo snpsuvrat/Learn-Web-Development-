@@ -1,5 +1,5 @@
 //If Statement
-if(true){
+if(false){
   console.log("If Statement");
 }
 
