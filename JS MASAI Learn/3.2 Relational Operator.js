@@ -1,4 +1,4 @@
-let x=37;
+let x=36;
 let y=20;
 
 console.log(x>y); //Greater
