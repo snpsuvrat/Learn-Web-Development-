@@ -9,5 +9,7 @@ switch(choice)
              break; 
     case 4 : console.log("Bengali");
              break;       
+    case 5 : console.log("Bhojpuri");
+             break;     
     default : console.log("Invalid Choice"); // if any case is not matched then default statement runs
 }
