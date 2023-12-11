@@ -18,7 +18,7 @@ make a while loop for a person in a frog race he has to jump one time to reach n
 ending point is 100
 */
 
-let jump=90;
+let jump=80;
 while(jump<=100)
 {
     console.log("Jump Number is" , jump);
