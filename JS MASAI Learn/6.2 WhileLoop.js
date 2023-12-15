@@ -19,7 +19,7 @@ ending point is 100
 */
 
 let jump=70;
-while(jump<=100)
+while(jump<=90)
 {
     console.log("Jump Number is" , jump);
     jump++;
