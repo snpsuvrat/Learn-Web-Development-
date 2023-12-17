@@ -9,7 +9,7 @@ console.log(x<y);//Less Than
 console.log(x<=y);//less Than Equal to
 
 
-let L_age=18;
+let L_age=28;
 let R_age=21;
 
 E=R_age>=L_age;
