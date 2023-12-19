@@ -22,6 +22,6 @@ let jump=70;
 while(jump<=80)
 {
     console.log("Jump Number is" , jump);
-    jump++;
+    ++jump;
 
 }
