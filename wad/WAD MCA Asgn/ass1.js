@@ -1,6 +1,6 @@
 function time(x)
 {
-    document.write("Hi There! Good"+ x);
+    document.write("Hi There! Good "+ x);
 }
 let userResponse = parseInt (prompt("Please enter no. 1:"));
 let userResponse2 = parseInt (prompt("Please enter no. 1:"));
